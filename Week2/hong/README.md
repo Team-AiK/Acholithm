@@ -6,4 +6,4 @@
 
 # 코드, 간단 설명
 
-[](https://hongjeseong.github.io/sb/)
+[포스트 링크](https://hongjeseong.github.io/sb/)
